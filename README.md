@@ -25,7 +25,7 @@
 ![任务列表](./screenshots/task-list.png)
 ![任务详情](./screenshots/task-detail.png)
 ![登录](./screenshots/login.png)
-！[注册](./screenshots/register.png)
+![注册](./screenshots/register.png)
 
 ## 登录用户
 
