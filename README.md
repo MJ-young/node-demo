@@ -3,6 +3,10 @@
 这是一个前后端分离的任务管理系统，
 前端使用Vue.js构建，后端基于Node.js和Express，数据存储使用MongoDB。
 
+## 前端仓库
+前端项目的源代码托管在GitHub上，您可以通过以下链接访问前端仓库：
+[前端项目仓库](https://github.com/MJ-young/vue-demo)
+
 ## 功能特点
 
 - **任务管理**：用户可以创建、编辑、删除和查询任务。
@@ -38,6 +42,10 @@
 ### 安装与运行
 
 ```bash
+
+# 克隆项目
+前端项目：git clone https://github.com/MJ-young/vue-demo.git
+后端项目：git clone https://github.com/MJ-young/node-demo.git
 
 # 前端项目
 npm install
